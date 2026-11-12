@@ -5,3 +5,16 @@
 xcuserdata/
 DerivedData/
 .swiftpm/xcode/package.xcworkspace/contents.xcworkspacedata
+.env
+.env.*
+!.env.example
+env.sh
+*.pem
+*.p12
+*.p8
+*.key
+*.cer
+*.mobileprovision
+*.certSigningRequest
+GoogleService-Info.plist
+google-services.json
